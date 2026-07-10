@@ -1,6 +1,8 @@
-:nlocal_notes.mdn >> .gitignore
-printf :
-local_notes.
+# Local/private notes and progress tracking
 local_notes.md
 job-search-progress.md
 docs/job-search-progress.md
+
+# Python cache files
+__pycache__/
+*.py[cod]
